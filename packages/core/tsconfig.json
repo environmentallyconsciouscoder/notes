@@ -5,3 +5,10 @@
     "moduleResolution": "Bundler",
   },
 }
+// {
+//   "extends": "@tsconfig/node20/tsconfig.json",
+//   "compilerOptions": {
+//     "module": "esnext",
+//     "moduleResolution": "Bundler"
+//   }
+// }
